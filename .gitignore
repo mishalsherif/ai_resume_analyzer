@@ -1,4 +1,14 @@
-\.venv
+venv/
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+dist/
+build/
+.DS_Store
+*.egg-info
+secrets.env
+*.log\.venv
 __pycache__/
 *.pyc
 *.pkl
