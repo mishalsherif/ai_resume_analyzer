@@ -1,0 +1,17 @@
+streamlit
+pdfplumber
+python-docx
+pandas
+altair
+pytest
+reportlab
+weasyprint
+black
+ruff
+isort
+streamlit
+pdfplumber
+python-docx
+pandas
+altair
+pytest

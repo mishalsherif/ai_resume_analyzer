@@ -1,0 +1,5 @@
+John Doe
+Experience: Worked on Python projects and SQL databases.
+Education: BSc Computer Science.
+Skills: Python, SQL, Machine Learning.
+Projects: AI Resume Analyzer.

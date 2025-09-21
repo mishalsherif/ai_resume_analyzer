@@ -1,0 +1,11 @@
+\.venv
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+/.pytest_cache
+/.ropeproject
+dist/
+build/
+*.egg-info
+env/

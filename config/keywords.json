@@ -1,0 +1,5 @@
+{
+  "desired_keywords": ["Python", "Machine Learning", "SQL", "Project", "Experience", "Education", "Data", "Analysis"],
+  "important_sections": ["Experience", "Education", "Skills", "Projects"],
+  "weights": {"keywords": 0.5, "sections": 0.4, "length": 0.1}
+}
