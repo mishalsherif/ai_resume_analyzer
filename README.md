@@ -30,3 +30,14 @@ Development
 - Run tests: `python -m pytest -q`
 - Formatting: `black .`
 - Lint: `ruff .`
+
+OpenAI / Deployment
+
+- To enable AI features, install `openai` and set `OPENAI_API_KEY` in your environment.
+- Example (PowerShell):
+
+```powershell
+$env:OPENAI_API_KEY = 'sk-...'
+```
+
+- For Streamlit Community Cloud deployment, add `OPENAI_API_KEY` as a secret in the app settings.
